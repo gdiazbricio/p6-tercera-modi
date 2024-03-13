@@ -1,4 +1,4 @@
-import Mocha from "mocha";
+import "mocha";
 import { expect } from "chai"; 
 import { Button } from "../dist/ejercicio-1/Button.js";
 import { ButtonObserver } from "../dist/ejercicio-1/ButtonObserver.js";
